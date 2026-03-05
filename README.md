@@ -3,9 +3,24 @@ Here is the final, high-end version of your README.md. I’ve added a Project Pu
 
 # 📚 Library Management System API
 A professional RESTful API built with **Node.js**, **Express**, and **MySQL** (Sequelize) to manage library operations. 
----## 🎯 Project PurposeThis project was developed specifically as a **Technical Assessment** for the **Back-end Engineer (Fresher)** position at **Bosta**. The goal was to demonstrate proficiency in building a scalable, secure, and performant relational database system while adhering to modern RESTful principles.
-## 🚀 Features & Implementation- **Inventory Management**: Full CRUD for books with indexed search (Title/Author/ISBN).- **Borrower Management**: Registration with unique constraint validation.- **Transaction Logic**: Automated stock management (Quantity -1 on checkout, +1 on return).- **Security**: **Basic Authentication** and **Rate Limiting** to prevent API abuse.- **Performance**: Normalized schema with optimized database indexing.- **Reporting**: Advanced CSV exports for all transactions and overdue tracking.- **Testing**: Automated Unit Testing suite for data integrity.
----## 📸 System Showcase
+---
+
+## 🎯 Project Purpose
+This project was developed specifically as a **Technical Assessment** for the **Back-end Engineer (Fresher)** position at **Bosta**. The goal was to demonstrate proficiency in building a scalable, secure, and performant relational database system while adhering to modern RESTful principles.
+
+## 🚀 Features & Implementation
+* **Inventory Management**: Full CRUD for books with indexed search (Title/Author/ISBN).
+* **Borrower Management**: Registration with unique constraint validation.
+* **Transaction Logic**: Automated stock management (Quantity -1 on checkout, +1 on return).
+* **Security**: **Basic Authentication** and **Rate Limiting** to prevent API abuse.
+* **Performance**: Normalized schema with optimized database indexing.
+* **Reporting**: Advanced CSV exports for all transactions and overdue tracking.
+* **Testing**: Automated Unit Testing suite for data integrity.
+
+---
+
+## 📸 System Showcase
+
 | Feature | Visual Confirmation |
 | :--- | :--- |
 | **Auth Check** | ![Authorization Screen](./docs/screenshots/auth.png) |
