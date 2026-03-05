@@ -29,7 +29,10 @@ This project was developed specifically as a **Technical Assessment** for the **
 | **Stock Logic** | ![Stock Update Screen](./docs/screenshots/stock_update.png) |
 | **Borrowing Process** | ![Borrowing Screen](./docs/screenshots/borrowing.png) |
 | **Unit Testing** | ![Unit Test Pass](./docs/screenshots/test_pass.png) |
----## 🛠️ Setup & Installation1. **Clone & Enter Directory**:
+
+---
+
+## 🛠️ Setup & Installation1. **Clone & Enter Directory**:
 
    git clone <your-repo-url>
    cd library-management-system
