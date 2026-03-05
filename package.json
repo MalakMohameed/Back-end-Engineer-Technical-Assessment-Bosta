@@ -1,0 +1,37 @@
+{
+  "name": "back-end-engineer-technical-assessment-bosta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalakMohameed/Back-end-Engineer-Technical-Assessment-Bosta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MalakMohameed/Back-end-Engineer-Technical-Assessment-Bosta/issues"
+  },
+  "homepage": "https://github.com/MalakMohameed/Back-end-Engineer-Technical-Assessment-Bosta#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.3.1",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.0",
+    "express-validator": "^7.3.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "mysql2": "^3.19.0",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.2.2"
+  }
+}
