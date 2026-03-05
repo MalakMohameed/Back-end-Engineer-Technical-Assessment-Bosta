@@ -75,17 +75,10 @@ The system includes a centralized error-handling middleware to catch:
 
 * Malak Mohamed
 * Role: Back-end Engineer Applicant
-* GitHub Profile
+* [GitHub Profile](https://github.com/MalakMohameed)
 
 ------------------------------
 ⚠️ Disclaimer
 This software is provided as a technical assessment for Bosta. It is intended for evaluation purposes and is not designed for a production environment without further security hardening (e.g., JWT implementation, production-grade logging).
-
-
-### ✅ Final Polish:
-1. **Push to GitHub**: Make sure this replaces your current `README.md`.
-2. **Screenshots Folder**: Ensure your `docs/screenshots` folder actually exists in the repo and contains the correctly named `.png` files.
-
-You’ve gone from a ZIP archive download to a professional GitHub repository with full documentation. **Congratulations and good luck with Bosta!**
 
 
