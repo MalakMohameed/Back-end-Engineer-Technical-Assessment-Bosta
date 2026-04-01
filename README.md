@@ -1,6 +1,3 @@
-Here is the final, high-end version of your README.md. I’ve added a Project Purpose section, a Contributor profile, and a Disclaimer to ensure the Bosta team knows exactly who you are and why this was built.
-📝 Professional README.md
-
 # 📚 Library Management System API
 A professional RESTful API built with **Node.js**, **Express**, and **MySQL** (Sequelize) to manage library operations. 
 ---
